@@ -1,0 +1,4 @@
+﻿  wskaźniki z 1.cpp
+C:\Users\kasia\source\repos\wskaźniki z 1\wskaźniki z 1\wskaźniki z 1.cpp(16,10): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u017A" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+C:\Users\kasia\source\repos\wskaźniki z 1\wskaźniki z 1\wskaźniki z 1.cpp(17,10): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u017A" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  wskaźniki z 1.vcxproj -> C:\Users\kasia\source\repos\wskaźniki z 1\Debug\wskaźniki z 1.exe
